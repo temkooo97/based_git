@@ -1,3 +1,4 @@
 print("Hello world!"); 
 print("How are you?");
 print("Where're you from?");
+print("Advanced method start");
