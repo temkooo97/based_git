@@ -1,5 +1,9 @@
-print("Hello world!"); 
-print("How are you?");
-print("Where're you from?");
-print("Advanced method start 1 ");
-print("Advanced method start 2 ");
+print("Hello world!;"); 
+print("How are you?;");
+print("Where're you from?;")
+print("Where're you from?;");
+print("Advanced method start 1; ");
+print("Advanced method start 2; ");
+
+
+
